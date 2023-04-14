@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Transfr/static/css/main.7df49b20.css",
-    "main.js": "/Transfr/static/js/main.ca481198.js",
+    "main.css": "/Transfr/static/css/main.cfac0ca6.css",
+    "main.js": "/Transfr/static/js/main.105bf132.js",
     "static/js/787.faa1a87c.chunk.js": "/Transfr/static/js/787.faa1a87c.chunk.js",
     "static/media/HandsPhones.png": "/Transfr/static/media/HandsPhones.7a2d08030c3d7bdbbdb5.png",
     "static/media/Unknown4o.png": "/Transfr/static/media/Unknown4o.f771db461a2bdccdabc7.png",
     "static/media/Logo_Transfr.png": "/Transfr/static/media/Logo_Transfr.e6cf1de1cef1a08da28f.png",
     "index.html": "/Transfr/index.html",
-    "main.7df49b20.css.map": "/Transfr/static/css/main.7df49b20.css.map",
-    "main.ca481198.js.map": "/Transfr/static/js/main.ca481198.js.map",
+    "main.cfac0ca6.css.map": "/Transfr/static/css/main.cfac0ca6.css.map",
+    "main.105bf132.js.map": "/Transfr/static/js/main.105bf132.js.map",
     "787.faa1a87c.chunk.js.map": "/Transfr/static/js/787.faa1a87c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7df49b20.css",
-    "static/js/main.ca481198.js"
+    "static/css/main.cfac0ca6.css",
+    "static/js/main.105bf132.js"
   ]
 }
